@@ -1,5 +1,8 @@
 # Hiroshi Inoue / 井上浩
 
+English | 🇯🇵 [日本語](README.ja.md)
+
+
 ### Ruby / AI / DX / Open Source  
 Building practical DX frameworks from **Shimane, Japan**
 
