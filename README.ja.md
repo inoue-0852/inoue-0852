@@ -34,7 +34,7 @@ Ruby から Jupyter Notebook を実行するツールです。
 Papermill を利用して  
 **Ruby と Python のワークフローを橋渡し**します。
 
-https://github.com/RubyPyMill-oss
+https://github.com/inoue-0852/RubyPyMill-OSS
 ---
 
 ### DXPF (DX Partner Framework)
