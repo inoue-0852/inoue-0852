@@ -25,6 +25,8 @@ Run Jupyter Notebooks from Ruby using Papermill.
 
 Bridging **Ruby and Python for AI / Data workflows**.
 
+[RubyPyMill repository[(https://github.com/inoue-0852/RubyPyMill-OSS)
+
 ### DXPF (DX Partner Framework)
 
 A framework for driving DX through iterative PoC cycles.
