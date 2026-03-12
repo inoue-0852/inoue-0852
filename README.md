@@ -91,4 +91,5 @@ On weekends I enjoy:
 
 ## Location
 
+[Japanese](https://github.com/inoue-0852/inoue-0852/blob/main/README.ja.md)
 Matsue, Shimane, Japan
